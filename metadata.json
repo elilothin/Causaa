@@ -1,0 +1,6 @@
+{
+  "name": "CAUSA SUI",
+  "description": "Application de sport Android 100 % hors-ligne : entraînements salle et maison, nutrition, hydratation, classement Ranked à 5 piliers, personnage 3D adaptatif et suivi des progrès.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
